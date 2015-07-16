@@ -30,3 +30,17 @@ appstore Keynote
 appstore Numbers
 appstore Pages
 appstore Xcode
+
+#Other Apps installed by Cask
+cask install 1password #/Applications/1Password 5.app
+cask install alfred #/Applications/Alfred 2.app
+cask install dropbox #/Applications/Dropbox.app
+cask install flux #/Applications/Flux.app
+cask install github #/Applications/GitHub.app
+cask install google-chrome #/Applications/Google Chrome.app
+cask install google-drive #/Applications/Google Drive.app
+cask install powerphotos #/Applications/Photos.app
+cask install pycharm #/Applications/PyCharm.app
+cask install webstorm #/Applications/WebStorm.app
+cask install xtrafinder #/Applications/XtraFinder.app
+
